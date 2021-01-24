@@ -15,6 +15,7 @@ author: 钱钱钱
 
 navbar-links:
   About Me: "aboutme"
+  ccc: "www.baidu.com"
   Resources: "https://deanattali.com"
     - Beautiful Jekyll: "https://king860810.github.io/beautiful-jekyll"
     - Learn markdown: "https://www.markdowntutorial.com/"
